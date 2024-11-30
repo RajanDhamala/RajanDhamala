@@ -20,37 +20,35 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
+
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash logo"  />
 </div>
 
-###
 
-<img align="left" height="174" src="https://imgs.search.brave.com/qa6bRNb-ZufN1_sIwnYEXmKoYMcU1C7R4zGmzOKzVYk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvaS1tLWp1/c3QtYS1jaGlsbC1n/[...]
 
 ###
 
@@ -76,7 +74,5 @@
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
 
 ###
