@@ -68,7 +68,7 @@
   <a href="https://wa.me/1234567890" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo"  />
   </a>
-  <a href="https://chess.com/member/RajanDhamala" target="_blank">
+  <a href="https://www.chess.com/member/NbcWala" target="_blank">
     <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpNgJfyb.png" width="82" height="40" alt="Chess.com logo"  />
   </a>
 </div>
