@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo"  />
 
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo"  />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
